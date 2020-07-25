@@ -1,10 +1,10 @@
 # Aplicación  Financiera
 ## Preámbulo
 Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico ofrecen servicios financieros digitales y son justamente los bancos digitales uno de los segmentos que representan un gran potencial para las personas y pymes no bancarizadas o que no tienen acceso al sistema financiero tradicional. Entre las soluciones que ofrecen está la personalización de productos y servicios, una mejor experiencia, reducción de costos por desintermediación de bancos y, sobre todo, el control de las operaciones financieras desde el celular.
-## Intro
-### Fint
+## Introducción
+### Fintech
 Banqui "Tu asesor financiero", es una fintech peruana que busca brindar una experiencia financiera digital simple, rápida y personalizada para sus clientes. Se encuentra aún en un estado beta en Perú, y con miras al lanzamiento en México quiere seguir desarrollando su producto y nos ha contratado para poder ayudarlos a corregir los principales problemas que encontraron en su aplicación durante esta fase y poder obtener una buena acogida en el mercado mexicano.
-# Contexto
+### Contexto
 Al revisar los resultados del uso de la aplicación con los usuarios beta y de haber realizado una investigación de UX con usuarios de México, el equipo de Banqui concluyó lo siguiente:
 
 La aplicación tiene aún problemas de diseño visual y de interacción que hacen que la aplicación no sea entendible ni fácil de usar para muchos usuarios:
@@ -20,5 +20,6 @@ Adaptar la aplicación para el mercado Mexicano en términos de:
 Moneda
 Lenguaje
 El equipo de Banqui te pide que los ayudes a concretar esas mejoras que han encontrado, pero además te comentan que están abiertos a explorar nuevas funcionalidades que les puedas proponer, siempre y cuando estén sustentadas por una investigación.
-# Proceso de Rediseño
+### User persona
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/USER%20PERSONA.png)
+## Proceso de Rediseño

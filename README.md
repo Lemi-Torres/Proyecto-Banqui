@@ -6,9 +6,8 @@ Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico o
 Banqui "Tu asesor financiero", es una fintech peruana que busca brindar una experiencia financiera digital simple, rápida y personalizada para sus clientes. Se encuentra aún en un estado beta en Perú, y con miras al lanzamiento en México quiere seguir desarrollando su producto y nos ha contratado para poder ayudarlos a corregir los principales problemas que encontraron en su aplicación durante esta fase y poder obtener una buena acogida en el mercado mexicano.
 ### Contexto
 Al revisar los resultados del uso de la aplicación con los usuarios beta y de haber realizado una investigación de UX con usuarios de México, el equipo de Banqui concluyó lo siguiente:
-
-. La aplicación tiene aún problemas de diseño visual y de interacción que hacen que la aplicación no sea entendible ni fácil de usar para muchos usuarios:1. 
-   - Existen inconsistencias en el uso de ciertos componentes de la interfaz.
+La aplicación tiene aún problemas de diseño visual y de interacción que hacen que la aplicación no sea entendible ni fácil de usar para muchos usuarios:1. 
+- Existen inconsistencias en el uso de ciertos componentes de la interfaz.
  - Los contrastes de color utilizados hacen que algunos elementos no sean vistos por los usuarios.
 El lenguaje utilizado en la aplicación a veces induce al error a los usuarios.
 Los usuarios valoran mucho la funcionalidad de ahorro, sin embargo, se les hace complicado utilizarla.

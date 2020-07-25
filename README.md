@@ -20,4 +20,4 @@ Moneda
 Lenguaje
 El equipo de Banqui te pide que los ayudes a concretar esas mejoras que han encontrado, pero además te comentan que están abiertos a explorar nuevas funcionalidades que les puedas proponer, siempre y cuando estén sustentadas por una investigación.
 # Proceso de Rediseño
-https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/USER%20PERSONA.png
+

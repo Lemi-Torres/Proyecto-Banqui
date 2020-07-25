@@ -19,4 +19,4 @@ Adaptar la aplicación para el mercado Mexicano en términos de:
 Moneda
 Lenguaje
 El equipo de Banqui te pide que los ayudes a concretar esas mejoras que han encontrado, pero además te comentan que están abiertos a explorar nuevas funcionalidades que les puedas proponer, siempre y cuando estén sustentadas por una investigación.
-# 
+# Proceso de Rediseño

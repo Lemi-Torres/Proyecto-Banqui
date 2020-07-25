@@ -1,7 +1,7 @@
 # Aplicación  Financiera
 ## Preámbulo
 Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico ofrecen servicios financieros digitales y son justamente los bancos digitales uno de los segmentos que representan un gran potencial para las personas y pymes no bancarizadas o que no tienen acceso al sistema financiero tradicional. Entre las soluciones que ofrecen está la personalización de productos y servicios, una mejor experiencia, reducción de costos por desintermediación de bancos y, sobre todo, el control de las operaciones financieras desde el celular.
-# Introducción
+## Intro
 Banqui "Tu asesor financiero", es una fintech peruana que busca brindar una experiencia financiera digital simple, rápida y personalizada para sus clientes. Se encuentra aún en un estado beta en Perú, y con miras al lanzamiento en México quiere seguir desarrollando su producto y nos ha contratado para poder ayudarlos a corregir los principales problemas que encontraron en su aplicación durante esta fase y poder obtener una buena acogida en el mercado mexicano.
 # Contexto
 Al revisar los resultados del uso de la aplicación con los usuarios beta y de haber realizado una investigación de UX con usuarios de México, el equipo de Banqui concluyó lo siguiente:

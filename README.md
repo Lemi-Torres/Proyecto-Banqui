@@ -22,4 +22,4 @@ El equipo de Banqui te pide que los ayudes a concretar esas mejoras que han enco
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/UserPersona.png)
 ## Proceso de Rediseño
 Una vez entendido el contexto del negocio y el desafío de rediseño, elaboramos un plan de trabajo para saber que actividades realizar a lo largo del desarrollo del proyecto, decidimos entonces, aplicar una metodología de trabajo ágil para obtener una mayor productividad y lograr las metas marcadas. El reto venía con una limitación de tiempo (un mes), entonces dividimos el proyecto en 4 sprints.
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Sprints.png)

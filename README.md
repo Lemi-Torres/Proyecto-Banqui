@@ -25,7 +25,7 @@ Una vez entendido el contexto del negocio y el desafío de rediseño, elaboramos
 
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Sprints.png)
 ###### Primer Sprint
-BENCHAMARK:
+**BENCHMARK**
 Si bien era importante conocer a la marca también lo era conocer a sus competidores y sus puntos fuertes, saber que están haciendo y que están ofreciendo, así que se realizó una investigación para comparar nuestro producto con los de la competencia, aquellas apps gratuitas que trabajan en el mercado mexicano y tienen una gran aceptación por los usuarios.
 
 Fintonic "Tu asistente de gasto y dinero"

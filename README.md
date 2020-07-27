@@ -34,3 +34,6 @@ Fintonic "Tu asistente de gasto y dinero"
 Mobills "Tu gestor de finanzas"
 
 Finerio "Tu administrador de quincena"
+
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)
+

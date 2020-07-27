@@ -24,7 +24,7 @@ El equipo de Banqui te pide que los ayudes a concretar esas mejoras que han enco
 Una vez entendido el contexto del negocio y el desafío de rediseño, elaboramos un plan de trabajo para saber que actividades realizar a lo largo del desarrollo del proyecto, decidimos entonces, aplicar una metodología de trabajo ágil para obtener una mayor productividad y lograr las metas marcadas. El reto venía con una limitación de tiempo (un mes), entonces dividimos el proyecto en 4 sprints.
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Sprints.png)
 ###### Primer Sprint
-BENCHAMARK:
+- BENCHAMARK
 Si bien era importante conocer a la marca también lo era conocer a sus competidores y sus puntos fuertes, saber que están haciendo y que están ofreciendo, así que se realizó una investigación para comparar nuestro producto con los de la competencia, aquellas apps gratuitas que trabajan en el mercado mexicano y tienen una gran aceptación por los usuarios.
 
 Fintonic "Tu asistente de gasto y dinero"

@@ -36,3 +36,12 @@ Mobills "Tu gestor de finanzas"
 Finerio "Tu administrador de quincena"
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)
 
+**PROCESO DE RECLUTAMIENTO**
+
+Para encontrar usuarios y realizar entrevistas en línea, realizamos los siguientes pasos:
+
+- Definimos a quienes se harían las entrevista según el user persona de México.
+- Definimos el target usuario.
+- Escribimos y envíamos un ‘screener survey’ mediante un post en Facebook.
+Analizadas las respuestas de los usuarios que participaron del screener survey se obtuvo un total de 11 personas que cumplían con las características del User persona. Se decidió entonces dividir a los usuarios, cinco de ellos serían parte de las entrevistas y el resto participaría en los testeos de la aplicación original.
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)

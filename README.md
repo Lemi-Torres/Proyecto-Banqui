@@ -83,3 +83,14 @@ Basándonos en la investigación previa y hallazgos encontrados procedimos a rea
 Realizamos un diagrama de flujo para poder visualizar los pasos que seguirán los usuarios al realizar una serie de tareas, esto comprende desde el punto de su entrada sumando el conjunto de pasos que ejecuta hasta que completa la tarea con un resultado exitoso.
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/diagrama.png)
 
+**DISEÑO DE INTERFAZ DE USUARIO**
+
+Con la información y los hallazgos obtenidos se procedió a realizar una primera propuesta de diseño la cual fue testeada por 6 usuarios, todos resaltaban que si bien las funcionalidades que encontraron dentro del nuevo diseño de la app hacía que este le genere confianza y los pasos a seguir eran mucho más prácticos, la app seguía careciendo de un lenguaje amigable, no sentían un acompañamiento durante los procesos y tampoco los motivaba a ahorrar o invertir.
+
+Con un previo análisis y tomando en cuenta estos hallazgos se continuó haciendo cambios y mejoras en la interfaz, obteniendo como resultado los siguientes mockups los cuales son la representación del diseño visual del producto final.
+
+**APRENDIZAJE**
+En este proyecto tuve que aprender a trabajar en equipo, poner en práctica técnicas de investigación y diseño, también tuve que desarrollar habilidades de pensamiento crítico, priorización, síntesis, ideación, atención al detalle, entre otros. Aprendí a diseñar un producto poniendo al usuario en el centro y teniendo siempre presente que no diseño para mí(olvidarme de los supuestos o lo que yo creo que la app debería tener), y diseñar para las personas(satisfacer sus necesidades).
+
+Mi equipo y yo culminamos el reto con éxito logrando ofrecer una app intuitiva, personalizada y amigable :)
+

@@ -46,3 +46,17 @@ Para encontrar usuarios y realizar entrevistas en línea, realizamos los siguien
 
 Analizadas las respuestas de los usuarios que participaron del screener survey se obtuvo un total de 11 personas que cumplían con las características del User persona. Se decidió entonces dividir a los usuarios, cinco de ellos serían parte de las entrevistas y el resto participaría en los testeos de la aplicación original.
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/scr.png)
+
+###### Segundo Sprint
+**ENTREVISTAS**
+
+Entrevistas
+Aquí se muestran los comentarios más resaltantes de los usuarios durante la entrevista:
+
+"Una aplicación financiera debería transmitirme confianza para poder brindar mis datos privados".
+"Desearía que halla un modelo de seguridad y privacidad que evite robos o pérdida de dinero e información".
+"No me gusta estar brindando información constantemente".
+"Para mí es muy importante poder realizar los pagos de mis servicios de una manera rápida, práctica y sin cobro de comisiones"
+"Tener un récord de gastos o ingresos de cada mes me ayudaría bastante para sacar presupuestos y hacer ajustes en mi dinero".
+"Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
+"Estaría más tranquilos si pudiera consultar mi saldo y mis gastos con frecuencia, pero que esto no implique tomarme demasiado tiempo".

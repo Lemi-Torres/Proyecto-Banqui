@@ -81,5 +81,5 @@ Basándonos en la investigación previa y hallazgos encontrados procedimos a rea
 **DIAGRAMA DE FLUJO**
 
 Realizamos un diagrama de flujo para poder visualizar los pasos que seguirán los usuarios al realizar una serie de tareas, esto comprende desde el punto de su entrada sumando el conjunto de pasos que ejecuta hasta que completa la tarea con un resultado exitoso.
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/scr.png)
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/diagrama.png)
 

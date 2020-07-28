@@ -44,4 +44,4 @@ Para encontrar usuarios y realizar entrevistas en línea, realizamos los siguien
 - Definimos el target usuario.
 - Escribimos y envíamos un ‘screener survey’ mediante un post en Facebook.
 Analizadas las respuestas de los usuarios que participaron del screener survey se obtuvo un total de 11 personas que cumplían con las características del User persona. Se decidió entonces dividir a los usuarios, cinco de ellos serían parte de las entrevistas y el resto participaría en los testeos de la aplicación original.
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/scr.png)

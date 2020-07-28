@@ -73,5 +73,13 @@ Algunos requisitos no eran claros, como la solicitud de clave de lector.
 La app no era amigable y no los motivaba ahorrar.
 No entendían donde tenían que agregar una meta de ahorro.
 
+###### Tercer Sprint
+**INVENTARIO DE CONTENIDOS**
 
+Basándonos en la investigación previa y hallazgos encontrados procedimos a realizar un Inventario de contenidos, documento en el que reunimos el contenido que se tiene o que hace falta para incluir en la aplicación móvil.
+
+**DIAGRAMA DE FLUJO**
+
+Realizamos un diagrama de flujo para poder visualizar los pasos que seguirán los usuarios al realizar una serie de tareas, esto comprende desde el punto de su entrada sumando el conjunto de pasos que ejecuta hasta que completa la tarea con un resultado exitoso.
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/scr.png)
 

@@ -81,7 +81,7 @@ Con la información y los hallazgos obtenidos se procedió a realizar una primer
 
 Con un previo análisis y tomando en cuenta estos hallazgos se continuó haciendo cambios y mejoras en la interfaz, obteniendo como resultado los siguientes mockups los cuales son la representación del diseño visual del producto final.
 
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_rediseñada.jpg)
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_reside%C3%B1ada.jpg)
 
 **APRENDIZAJE**
 

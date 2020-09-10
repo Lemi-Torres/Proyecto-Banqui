@@ -52,6 +52,8 @@ Aquí se muestran los comentarios más resaltantes de los usuarios durante la en
 
 **USER TESTING**
 
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.png)
+
 Se testeó la aplicación original de Banqui obteniendo los siguientes problemas de usabilidad:
 
 - El icono principal no les transmitía la imagen de un banco.

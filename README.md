@@ -42,26 +42,26 @@ Obtuvimos un total de 11 personas que cumplían con las características del Use
 
 Aquí se muestran los comentarios más resaltantes de los usuarios durante la entrevista:
 
-"Una aplicación financiera debería transmitirme confianza para poder brindar mis datos privados".
-"Desearía que halla un modelo de seguridad y privacidad que evite robos o pérdida de dinero e información".
-"No me gusta estar brindando información constantemente".
-"Para mí es muy importante poder realizar los pagos de mis servicios de una manera rápida, práctica y sin cobro de comisiones"
-"Tener un récord de gastos o ingresos de cada mes me ayudaría bastante para sacar presupuestos y hacer ajustes en mi dinero".
-"Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
-"Estaría más tranquilos si pudiera consultar mi saldo y mis gastos con frecuencia, pero que esto no implique tomarme demasiado tiempo".
+- "Una aplicación financiera debería transmitirme confianza para poder brindar mis datos privados".
+- "Desearía que halla un modelo de seguridad y privacidad que evite robos o pérdida de dinero e información".
+- "No me gusta estar brindando información constantemente".
+- "Para mí es muy importante poder realizar los pagos de mis servicios de una manera rápida, práctica y sin cobro de comisiones"
+- "Tener un récord de gastos o ingresos de cada mes me ayudaría bastante para sacar presupuestos y hacer ajustes en mi dinero".
+- "Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
+- "Estaría más tranquilos si pudiera consultar mi saldo y mis gastos con frecuencia, pero que esto no implique tomarme demasiado tiempo".
 
 **USER TESTING**
 
 Se testeó la aplicación original de Banqui obteniendo los siguientes problemas de usabilidad:
 
-El icono principal no les transmitía la imagen de un banco.
-Los contrastes de color utilizados hacían que algunos elementos no sean vistos.
-El lenguaje utilizado en la aplicación a veces inducía al error.
-El mensaje de referidos daba la impresión de ser clikeable.
-No se percataron del mensaje de sms.
-Algunos requisitos no eran claros, como la solicitud de clave de lector.
-La app no era amigable y no los motivaba ahorrar.
-No entendían donde tenían que agregar una meta de ahorro.
+- El icono principal no les transmitía la imagen de un banco.
+- Los contrastes de color utilizados hacían que algunos elementos no sean vistos.
+- El lenguaje utilizado en la aplicación a veces inducía al error.
+- El mensaje de referidos daba la impresión de ser clikeable.
+- No se percataron del mensaje de sms.
+- Algunos requisitos no eran claros, como la solicitud de clave de lector.
+- La app no era amigable y no los motivaba ahorrar.
+- No entendían donde tenían que agregar una meta de ahorro.
 
 ###### Tercer Sprint
 **INVENTARIO DE CONTENIDOS**

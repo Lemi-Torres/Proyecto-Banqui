@@ -81,6 +81,8 @@ Con la información y los hallazgos obtenidos se procedió a realizar una primer
 
 Con un previo análisis y tomando en cuenta estos hallazgos se continuó haciendo cambios y mejoras en la interfaz, obteniendo como resultado los siguientes mockups los cuales son la representación del diseño visual del producto final.
 
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_rediseñada.jpg)
+
 **APRENDIZAJE**
 
 En este proyecto tuve que aprender a trabajar en equipo, poner en práctica técnicas de investigación y diseño, también tuve que desarrollar habilidades de pensamiento crítico, priorización, síntesis, ideación, atención al detalle, entre otros. Aprendí a diseñar un producto poniendo al usuario en el centro y teniendo siempre presente que no diseño para mí(olvidarme de los supuestos o lo que yo creo que la app debería tener), y diseñar para las personas(satisfacer sus necesidades).

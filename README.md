@@ -8,6 +8,7 @@ Banqui "Tu asesor financiero", es una fintech peruana que busca brindar una expe
 La aplicación tenía problemas de diseño visual y de interacción que hacía que la aplicación no sea entendible ni fácil de usar para muchos usuarios, el lenguaje utilizado en la aplicación a veces los inducía al error, y se resaltó que los usuarios valoran mucho la funcionalidad de ahorro, sin embargo, se les hacía complicado utilizarla, entre otros. También se nos mencionó que era imperativo diseñar una aplicación para dispositivos Android, ya que se detectó que el 70% de los interesados en Banqui navegaban el landing page desde este dispositivo.
 ### User persona
 Este es el User Persona que Banqui nos presentó como parte de sus resultados de investigación, utilizamos esto para definir nuestro target usuario y poder lanzar un screener survey posteriormente.
+
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/ghUserPersona.png)
 ## Proceso de Rediseño
 Una vez entendido el contexto del negocio y el desafío de rediseño, elaboramos un plan de trabajo para saber que actividades realizar a lo largo del desarrollo del proyecto, decidimos entonces, aplicar una metodología de trabajo ágil para obtener una mayor productividad y lograr las metas marcadas. El reto venía con una limitación de tiempo (un mes), entonces dividimos el proyecto en 4 sprints.

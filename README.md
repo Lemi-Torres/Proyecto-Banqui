@@ -32,8 +32,6 @@ Elaboramos nuestro screener survey y lo enviamos mediante un post en Facebook co
 ###### Segundo Sprint
 **ENTREVISTAS Y USER TESTING**
 
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.jpg)
-
 Realizamos entrevistas y testeos en línea con aquellas personas que cumplían con el perfil requerido y obtuvimos hallazgos que reforzaron los resultados de investigación que el equipo de Banqui había encontrado anteriormente con usuarios de México.
 Aquí se muestran los comentarios más resaltantes de los usuarios durante las entrevista:
 
@@ -45,14 +43,16 @@ Aquí se muestran los comentarios más resaltantes de los usuarios durante las e
 - "Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
 - "Estaría más tranquilos si pudiera consultar mi saldo y mis gastos con frecuencia, pero que esto no implique tomarme demasiado tiempo".
 
- Sintetizados y Definidos los hallazgos encontrados como grupo llegamos a las siguientes conclusiones:
+Sintetizados y Definidos los hallazgos encontrados como grupo llegamos a las siguientes conclusiones:
 
-Registro: No transmite confianza
-Inicio de sesión: No es seguro
-Página de inicio: No da privacidad
-Gastos: Faltaba dinamismo
-Ahorros: No hay motivación
-Operaciones: Muchos pasos
+- Registro: No transmite confianza
+- Inicio de sesión: No es seguro
+- Página de inicio: No da privacidad
+- Gastos: Faltaba dinamismo
+- Ahorros: No hay motivación
+- Operaciones: Muchos pasos
+
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.jpg)
 
 ###### Tercer Sprint
 **INVENTARIO DE CONTENIDOS**

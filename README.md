@@ -26,19 +26,16 @@ Finerio "Tu administrador de quincena"
 
 **PROCESO DE RECLUTAMIENTO**
 
-Para encontrar usuarios y realizar entrevistas en línea, realizamos los siguientes pasos:
-
-- Definimos a quienes se harían las entrevista según el user persona de México.
-- Definimos el target usuario.
-- Escribimos y envíamos un ‘screener survey’ mediante un post en Facebook.
-
-Obtuvimos un total de 11 personas que cumplían con las características del User persona. Se decidió entonces dividir a los usuarios, cinco de ellos serían parte de las entrevistas y el resto participaría en los testeos de la aplicación original.
+Elaboramos nuestro screener survey y lo enviamos mediante un post en Facebook con la finalidad de obtener usuarios que se encuentren dentro del perfil de nuestro User persona y poder proceder a entrevistas y testeos en modo remoto. Obtuvimos un total de 11 personas que cumplían con las características requeridas y creamos dos grupos cinco de ellos para entrevistas y el resto participaría en los testeos de la aplicación original para poder validar y/o encontrar problemas de experiencia de usuario.
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/scr.png)
 
 ###### Segundo Sprint
-**ENTREVISTAS**
+**ENTREVISTAS Y USER TESTING**
 
-Aquí se muestran los comentarios más resaltantes de los usuarios durante la entrevista:
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.jpg)
+
+Realizamos entrevistas y testeos en línea con aquellas personas que cumplían con el perfil requerido y obtuvimos hallazgos que reforzaron los resultados de investigación que el equipo de Banqui había encontrado anteriormente con usuarios de México.
+Aquí se muestran los comentarios más resaltantes de los usuarios durante las entrevista:
 
 - "Una aplicación financiera debería transmitirme confianza para poder brindar mis datos privados".
 - "Desearía que halla un modelo de seguridad y privacidad que evite robos o pérdida de dinero e información".
@@ -48,20 +45,14 @@ Aquí se muestran los comentarios más resaltantes de los usuarios durante la en
 - "Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
 - "Estaría más tranquilos si pudiera consultar mi saldo y mis gastos con frecuencia, pero que esto no implique tomarme demasiado tiempo".
 
-**USER TESTING**
+ Sintetizados y Definidos los hallazgos encontrados como grupo llegamos a las siguientes conclusiones:
 
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.jpg)
-
-Se testeó la aplicación original de Banqui obteniendo los siguientes problemas de usabilidad:
-
-- El icono principal no les transmitía la imagen de un banco.
-- Los contrastes de color utilizados hacían que algunos elementos no sean vistos.
-- El lenguaje utilizado en la aplicación a veces inducía al error.
-- El mensaje de referidos daba la impresión de ser clikeable.
-- No se percataron del mensaje de sms.
-- Algunos requisitos no eran claros, como la solicitud de clave de lector.
-- La app no era amigable y no los motivaba ahorrar.
-- No entendían donde tenían que agregar una meta de ahorro.
+Registro: No transmite confianza
+Inicio de sesión: No es seguro
+Página de inicio: No da privacidad
+Gastos: Faltaba dinamismo
+Ahorros: No hay motivación
+Operaciones: Muchos pasos
 
 ###### Tercer Sprint
 **INVENTARIO DE CONTENIDOS**

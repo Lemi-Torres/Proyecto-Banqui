@@ -43,7 +43,6 @@ Aquí se muestran algunos comentarios de los usuarios durante las entrevista:
 
 Sintetizados y Definidos los hallazgos encontrados como grupo llegamos a las siguientes conclusiones:
 
-- Registro: No transmite confianza
 - Inicio de sesión: No es seguro
 - Página de inicio: No da privacidad
 - Gastos: Faltaba dinamismo

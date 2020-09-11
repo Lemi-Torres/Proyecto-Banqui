@@ -33,12 +33,10 @@ Elaboramos nuestro screener survey y lo enviamos mediante un post en Facebook co
 **ENTREVISTAS Y USER TESTING**
 
 Realizamos entrevistas y testeos en línea con aquellas personas que cumplían con el perfil requerido y obtuvimos hallazgos que reforzaron los resultados de investigación que el equipo de Banqui había encontrado anteriormente con usuarios de México.
-Aquí se muestran los comentarios más resaltantes de los usuarios durante las entrevista:
+Aquí se muestran algunos comentarios de los usuarios durante las entrevista:
 
 - "Una aplicación financiera debería transmitirme confianza para poder brindar mis datos privados".
 - "Desearía que halla un modelo de seguridad y privacidad que evite robos o pérdida de dinero e información".
-- "No me gusta estar brindando información constantemente".
-- "Para mí es muy importante poder realizar los pagos de mis servicios de una manera rápida, práctica y sin cobro de comisiones"
 - "Tener un récord de gastos o ingresos de cada mes me ayudaría bastante para sacar presupuestos y hacer ajustes en mi dinero".
 - "Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
 - "Estaría más tranquilos si pudiera consultar mi saldo y mis gastos con frecuencia, pero que esto no implique tomarme demasiado tiempo".

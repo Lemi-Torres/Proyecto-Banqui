@@ -17,11 +17,12 @@ Una vez entendido el contexto del negocio y el desafío de rediseño, elaboramos
 
 Si bien era importante conocer a la marca también lo era conocer a sus competidores y sus puntos fuertes, saber que están haciendo y que están ofreciendo, así que se realizó una investigación para comparar nuestro producto con los de la competencia, aquellas apps gratuitas que trabajan en el mercado mexicano y tienen una gran aceptación por los usuarios.
 
-Fintonic "Tu asistente de gasto y dinero"
+*Fintonic "Tu asistente de gasto y dinero"*
 
-Mobills "Tu gestor de finanzas"
+*Mobills "Tu gestor de finanzas"*
 
-Finerio "Tu administrador de quincena"
+*Finerio "Tu administrador de quincena"*
+
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)
 
 **PROCESO DE RECLUTAMIENTO**
@@ -35,7 +36,6 @@ Elaboramos nuestro screener survey y lo enviamos mediante un post en Facebook co
 Realizamos entrevistas y testeos en línea con aquellas personas que cumplían con el perfil requerido y obtuvimos hallazgos que reforzaron los resultados de investigación que el equipo de Banqui había encontrado anteriormente con usuarios de México.
 Aquí se muestran algunos comentarios de los usuarios durante las entrevista:
 
-- "Una aplicación financiera debería transmitirme confianza para poder brindar mis datos privados".
 - "Desearía que halla un modelo de seguridad y privacidad que evite robos o pérdida de dinero e información".
 - "Tener un récord de gastos o ingresos de cada mes me ayudaría bastante para sacar presupuestos y hacer ajustes en mi dinero".
 - "Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
